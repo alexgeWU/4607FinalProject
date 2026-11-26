@@ -11,3 +11,6 @@ __pycache__/
 
 # VS Code: keep the Pico extension's project files (they're needed to build)
 !.vscode/*
+
+# Personal notes
+chat.txt
