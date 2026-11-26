@@ -1,2 +1,13 @@
-build
+# Build output (CMake / Pico SDK)
+build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code: keep the Pico extension's project files (they're needed to build)
 !.vscode/*
